@@ -3,7 +3,7 @@ layout: post
 title: "A Nightmare on Elm Street - Les Griffes de la nuit (Wes Craven, 1984)"
 author: "Pantalons Inappropriés"
 categories: critique
-tags: [critique,1980s,US]
+tags: [critique,1980s,américain]
 image: critiques/a-nightmare-on-elm-street-1984.jpg
 ---
 

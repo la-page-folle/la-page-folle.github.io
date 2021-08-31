@@ -3,8 +3,8 @@ layout: tag
 title: "Films américains"
 author: "Pantalons Inappropriés"
 categories: tag
-tags: [tag,américain]
-tag: italien
+#tags: [tag,américain]
+tag: américain
 image: tags/americain.jpg
 ---
 

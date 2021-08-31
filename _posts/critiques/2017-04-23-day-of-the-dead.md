@@ -3,7 +3,7 @@ layout: post
 title: "Day of the Dead - Le Jour des Morts (George A. Romero, 1985)"
 author: "Pantalons Inappropriés"
 categories: critique
-tags: [critique,1980s,US]
+tags: [critique,1980s,américain]
 image: critiques/day-of-the-dead-1985.jpg
 ---
 
