@@ -2,6 +2,8 @@
 layout: post
 ---
 
+{{ content }}
+
 {% for post in site.posts %}
   {% if post.tags contains page.tag %}
     {% include featured-post.html %}
