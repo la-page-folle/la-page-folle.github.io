@@ -6,7 +6,7 @@ permalink: /about
 
 ## Le blog
 
-La page de la folie est un blog contenant des critiques de films classiques et modernes, avec un accent sur le cinéma de genre.
+La page folle est un blog contenant des critiques de films classiques et modernes, avec un accent sur le cinéma de genre.
 
 ## La philosophie
 
