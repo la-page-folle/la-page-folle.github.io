@@ -6,7 +6,7 @@ layout: post
 
 {% for post in site.posts %}
   {% if post.tags contains page.tag %}
-    {% unless post.tags contains tag %}
+    {% unless post.tags contains "tag" %}
       {% include featured-post.html %}
     {% endunless %}
   {% endif %}
