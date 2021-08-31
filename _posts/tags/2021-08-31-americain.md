@@ -3,7 +3,7 @@ layout: tag
 title: "Films americains"
 author: "Pantalons Inappropriés"
 categories: tag
-tags: [americain]
+#tags: [americain]
 tag: americain
 image: tags/americain.jpg
 ---
