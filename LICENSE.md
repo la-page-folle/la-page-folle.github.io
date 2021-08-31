@@ -1,4 +1,10 @@
-# The MIT License (MIT)
+# Blog contents
+
+Copyright (c) 2021 Pantalons Inappropriés, all rights reserved.
+
+# Millennial theme
+
+The MIT License (MIT)
 
 Copyright (c) 2021 Paul Le
 
