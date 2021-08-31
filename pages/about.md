@@ -12,11 +12,11 @@ Retrouver les trésors cinématiques perdu, proposer un guide pour les novices e
 
 ##Les scores
 
-### Le score "qualité" ★
+### Le score "qualité"
 
 Note qui prend en compte l'accessibilité du film, la date de sortie... et tente de donner une évaluation "objective".
 
-### Le score "personnel" ♥
+### Le score "personnel"
 
 Note qui reflète la qualité du moment passé par le critique.
 
