@@ -18,5 +18,5 @@ Freddy dans ce film est très rarement joué de manière comique, comme il le se
 
 Le film n'est pas exactement parfait, certains passages de l'histoire ne sont pas très adroitement traités. Wes Craven a tendance à faire des films avec un contenu enfantin présenté de manière adulte et vice versa ! Cela fait de A Nightmare on Elm Street un film pour jeunes adolescents et pour les débutants en Horreur. Mais si le film est inégal, c'est aussi parce que beaucoup de moments sont classiques.
 
-Score qualité : ★★★⯨☆
+Score qualité : ★★★☆☆
 Score personnel : ♥♥♥♥♡
