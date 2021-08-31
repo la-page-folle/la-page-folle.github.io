@@ -18,4 +18,5 @@ C'est de là que vient la force du film : les conflits viennent des personnages 
 Toute la palette du cinéma de l'époque est utilisée, du stupide au sérieux, du drame au gore gratuit, et c'est pour ça que pour moi, Day of the Dead est LE film de zombies, bien qu'il soit le plus méconnu de la trilogie originale.
 
 Score qualité : ★★★☆☆
+
 Score personnel : ♥♥♥♥♥
