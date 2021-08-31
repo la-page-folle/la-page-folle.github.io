@@ -4,19 +4,21 @@ title: A propos
 permalink: /about
 ---
 
+## Le blog
+
 La page de la folie est un blog contenant des critiques de films classiques et modernes, avec un accent sur le cinéma de genre.
 
-##La philosophie
+## La philosophie
 
 Retrouver les trésors cinématiques perdu, proposer un guide pour les novices et gentiment se moquer des ratages.
 
-##Les scores
+## Les scores
 
-### Le score "qualité"
+### Le score "qualité" ★
 
 Note qui prend en compte l'accessibilité du film, la date de sortie... et tente de donner une évaluation "objective".
 
-### Le score "personnel"
+### Le score "personnel" ♥
 
 Note qui reflète la qualité du moment passé par le critique.
 
