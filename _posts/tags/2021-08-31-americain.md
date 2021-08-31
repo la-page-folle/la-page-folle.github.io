@@ -1,11 +1,11 @@
 ---
 layout: tag
-title: "Films américains"
+title: "Films americains"
 author: "Pantalons Inappropriés"
 categories: tag
-tags: [américain]
-tag: américain
+tags: [americain]
+tag: americain
 image: tags/americain.jpg
 ---
 
-Films d'origine américaine ou thématiquement liés à ce pays.
+Films d'origine americaine ou thématiquement liés à ce pays.
