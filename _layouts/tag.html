@@ -5,8 +5,8 @@ layout: post
 {{ content }}
 
 {% for post in site.posts %}
-  {% if post.tags contains page.tags %}
-    {% unless post.categories contains page.categories %}
+  {% if post.tags contains page.tag %}
+    {% unless post.categories contains "tag" %}
       {% include featured-post.html %}
     {% endunless %}
   {% endif %}
