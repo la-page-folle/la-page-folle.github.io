@@ -4,7 +4,7 @@ title: "A Nightmare on Elm Street - Les Griffes de la nuit (Wes Craven, 1984)"
 author: "Pantalons Inappropriés"
 categories: critique
 tags: [critique,1980s,US]
-image: a-nightmare-on-elm-street-1984.jpg
+image: critiques/a-nightmare-on-elm-street-1984.jpg
 ---
 
 Dans les années 80, après qu'Halloween ait popularisé le Slasher, le genre est tombé dans l'auto parodie à une vitesse alarmante.
@@ -12,7 +12,7 @@ Le principe est simple : on prend 5 à 10 personnages (souvent des adolescents) 
 
 Le film se distingue de ses compères par son côté fantastique, permettant à ses créateurs d'imaginer toutes sortes de nouvelles façons de tuer leurs personnages, mais heureusement ce film n'est pas juste un bain de sang. Wes Craven (réalisateur/scénariste) s'est inspiré de véritables morts : de jeunes enfants d'Asie récemment installés en Amérique souffraient de terribles cauchemars et se tenaient éveillés à l'aide de café et de médicaments. Les parents ont fini par les endormir mais, de manière inexpliquée, ils ne se sont jamais réveillés. Dans le film cette terrible histoire prend la forme de Freddy, un tueur en série décédé, qui hante les rêves des enfants de Elm Street. S'ils meurent dans leurs rêves, ils meurent pour de vrai.
 
-A Nightmare on Elm Street est un des meilleurs films du genre (des Slashers c'est facile, mais d'Horreur en général c'est plus dur), ceci est dû à l'originalité des meurtres de Freddy et les fantastiques effets spéciaux qui les accompagnent, mais aussi (et surtout) à l'humanité des personnages et au "charisme" de Freddy. Pour commencer, tous les adolescents font un travail d'acteur respectable, et à défaut d'être excellents (ou même bons), ils sont attachants. Finalement, le moins doué c'est Johnny Depp dans un de ses premiers rôles ! Les adultes sont plus à l'aise. Parmis eux, Robert Englund dans le rôle de Freddy.
+A Nightmare on Elm Street est un des meilleurs films du genre (des Slashers c'est facile, mais d'Horreur en général c'est plus dur), ceci est dû à l'originalité des meurtres de Freddy et les fantastiques effets spéciaux qui les accompagnent, mais aussi (et surtout) à l'humanité des personnages et au "charisme" de Freddy. Pour commencer, tous les adolescents font un travail d'acteur respectable, et à défaut d'être excellents (ou même bons), ils sont attachants. Finalement, le moins doué c'est Johnny Depp dans un de ses premiers rôles ! Les adultes sont plus à l'aise. Parmi eux, Robert Englund dans le rôle de Freddy.
 
 Freddy dans ce film est très rarement joué de manière comique, comme il le sera dans le reste de la série. Le personnage est traité avec beaucoup de sérieux et lorsqu'il frise le ridicule, il est plus malsain que drôle (pensez au joker de Batman par exemple). Aidé par les effets spéciaux il est le centre d'attention dès qu'il est à l'écran.
 

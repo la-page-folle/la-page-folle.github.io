@@ -1,11 +1,14 @@
 ---
 layout: post
+categories: tag
 ---
 
 {{ content }}
 
 {% for post in site.posts %}
   {% if post.tags contains page.tag %}
-    {% include featured-post.html %}
+    {% unless post.tags contains tag %}
+      {% include featured-post.html %}
+    {% endunless %}
   {% endif %}
 {% endfor %}
