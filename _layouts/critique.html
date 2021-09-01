@@ -1,0 +1,9 @@
+---
+layout: post
+---
+
+{% for i in (1..page.stars) %}★{% endfor %}{% for i in (page.stars+1..5) %}☆{% endfor %}
+
+{% for i in (1..page.hearts) %}♥{% endfor %}{% for i in (page.hearts+1..5) %}♡{% endfor %}
+
+{{ content }}
