@@ -6,8 +6,6 @@ layout: default
   <h1>
     {{ page.title }}
   </h1>
-  <div class="Stars" style="--rating: 2.3;" aria-label="Rating of this product is 2.3 out of 5.">
-
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
   {% endif %}
@@ -17,6 +15,7 @@ layout: default
     </div>
   {% endif %}
   <article>
+    <div class="Stars" style="--rating: 2.3;" aria-label="Rating of this product is 2.3 out of 5.">
     {{ content }}
   </article>
   {% if site.hide_post_share != true %}
