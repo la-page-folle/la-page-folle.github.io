@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: critique
 title: "A Nightmare on Elm Street - Les Griffes de la nuit (Wes Craven, 1984)"
 author: "Pantalons Inappropriés"
 categories: critique
 tags: [1980s,americain]
 image: critiques/a-nightmare-on-elm-street-1984.jpg
+stars: 3
+hearts: 4
 ---
 
 Dans les années 80, après qu'Halloween ait popularisé le Slasher, le genre est tombé dans l'auto parodie à une vitesse alarmante.

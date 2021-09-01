@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: critique
 title: "Day of the Dead - Le Jour des Morts (George A. Romero, 1985)"
 author: "Pantalons Inappropriés"
 categories: critique
 tags: [1980s,americain]
 image: critiques/day-of-the-dead-1985.jpg
+stars: 3
+hearts: 5
 ---
 
 Parlons peu, parlons zombies. Bweuuaah... Non mais sans rire, depuis quelques années les zombies ont connu une renaissance, sans mauvais jeu de mot, dans notre culture. Cette sortie du cimetière a débuté avec L'Armée des Morts (2004) remake du Dawn of the Dead (1978) de Romero. On peut trouver des films de zombies jusque dans les années 30 mais celui qui les dépeint comme on les connaît aujourd'hui est le premier film de Romero : Night of the Living Dead (1968).
