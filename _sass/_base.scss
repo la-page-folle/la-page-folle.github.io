@@ -42,15 +42,15 @@ body {
   font-family: $base-font-family;
 }
 
-/* Dark mode */
 body {
-  background-color: #804040;
-  color: white;
+  background-color: $background-color-dark-mode;
+  color: $color-dark-mode;
 }
+/* Light mode */
 @media screen and (prefers-color-scheme: light) {
   body {
-    background-color: #404080;
-    color: black;
+    background-color: $background-color-light-mode;
+    color: $color-light-mode;
   }
 }
 
@@ -101,8 +101,15 @@ dd {
 */
 
 a {
-  color: $brand-color;
+  color: $brand-color-dark-mode;
   text-decoration: none;
+}
+/* Light mode */
+@media screen and (prefers-color-scheme: light) {
+  a {
+    color: $brand-color;
+    text-decoration: none;
+  }
 }
 
 /*
