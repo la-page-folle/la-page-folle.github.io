@@ -95,6 +95,12 @@
   }
 }
 
+:root {
+  --star-size: 60px;
+  --star-color: #fff;
+  --star-background: #fc0;
+}
+
 .Stars {
   --percent: calc(var(--rating) / 5 * 100%);
 
