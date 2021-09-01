@@ -8,14 +8,24 @@ $code-font-family: "Source Code Pro", monospace;
 $brand-color: black;
 $brand-color-dark-mode: white;
 
-$background-color-light-mode: #802020;//white;
-$background-color-dark-mode: #202080;//black;
-@media screen and (prefers-color-scheme: dark) {
-  $background-color-dark-mode: #202060;//black;
-}
+$background-color-light-mode: #806060;//white;
+$background-color-dark-mode: #202040;//black;
 
 $color-light-mode: black;
 $color-dark-mode: white;
+
+:root {
+  --bg-color: $background-color-dark-mode;
+  --main-color: $color-dark-mode;
+  --brand-color: $brand-color-dark-mode;
+}
+@media screen and (prefers-color-scheme: light) {
+  :root {
+    --bg-color: $background-color-light-mode;
+    --main-color: $color-light-mode;
+    --brand-color:$brand-color;
+  }
+}
 
 $container-width: 1100px;
 $tablet-width: 600px;

@@ -43,14 +43,14 @@ body {
 }
 
 body {
-  background-color: $background-color-dark-mode;
-  color: $color-dark-mode;
+  background-color: var(--bg-color);
+  color: var(--bg-color);
 }
 /* Light mode */
 @media screen and (prefers-color-scheme: light) {
   body {
-    background-color: $background-color-light-mode;
-    color: $color-light-mode;
+    background-color: var(--bg-color);
+    color: var(--bg-color);
   }
 }
 
@@ -101,13 +101,13 @@ dd {
 */
 
 a {
-  color: $brand-color-dark-mode;
+  color: var(--bg-color);
   text-decoration: none;
 }
 /* Light mode */
 @media screen and (prefers-color-scheme: light) {
   a {
-    color: $brand-color;
+    color: var(--bg-color);
     text-decoration: none;
   }
 }
