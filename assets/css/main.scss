@@ -15,15 +15,15 @@ $color-light-mode: black;
 $color-dark-mode: white;
 
 :root {
-  --bg-color: $background-color-dark-mode;
-  --main-color: $color-dark-mode;
-  --brand-color: $brand-color-dark-mode;
+  --bg-color: #202040;
+  --main-color: white;
+  --brand-color: white;
 }
 @media screen and (prefers-color-scheme: light) {
   :root {
-    --bg-color: $background-color-light-mode;
-    --main-color: $color-light-mode;
-    --brand-color:$brand-color;
+    --bg-color: #806060;
+    --main-color: black;
+    --brand-color: black;
   }
 }
 
