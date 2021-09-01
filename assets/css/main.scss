@@ -10,6 +10,9 @@ $brand-color-dark-mode: white;
 
 $background-color-light-mode: #802020;//white;
 $background-color-dark-mode: #202080;//black;
+@media screen and (prefers-color-scheme: dark) {
+  $background-color-dark-mode: #202060;//black;
+}
 
 $color-light-mode: black;
 $color-dark-mode: white;
