@@ -18,7 +18,3 @@ Je sais bien que tous ces titres se suivent et se ressemblent mais prenons un in
 C'est de là que vient la force du film : les conflits viennent des personnages et les zombies ne sont qu'un catalyseur. Les acteurs sont tous excellents et chaque personnage a sa propre identité, et même s'ils ne sont pas tous aussi développés, le fait qu'autant de personnages (une dizaine) soient aussi mémorables est un tour de force. Le drame est aussi contrasté avec les aspects plus "immatures" du film. Les effets spéciaux et les scènes gores sont incroyables et douloureuses, et regarder les scientifiques étudier les zombies est très divertissant. Le film réussit a transformer des délires de séries B en éléments sérieux de son histoire comme le faisait Les dents de la Mer ou Star Wars dans les années 70.
 
 Toute la palette du cinéma de l'époque est utilisée, du stupide au sérieux, du drame au gore gratuit, et c'est pour ça que pour moi, Day of the Dead est LE film de zombies, bien qu'il soit le plus méconnu de la trilogie originale.
-
-Score qualité : ★★★☆☆
-
-Score personnel : ♥♥♥♥♥

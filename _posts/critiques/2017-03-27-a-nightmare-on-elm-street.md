@@ -19,7 +19,3 @@ A Nightmare on Elm Street est un des meilleurs films du genre (des Slashers c'es
 Freddy dans ce film est très rarement joué de manière comique, comme il le sera dans le reste de la série. Le personnage est traité avec beaucoup de sérieux et lorsqu'il frise le ridicule, il est plus malsain que drôle (pensez au joker de Batman par exemple). Aidé par les effets spéciaux il est le centre d'attention dès qu'il est à l'écran.
 
 Le film n'est pas exactement parfait, certains passages de l'histoire ne sont pas très adroitement traités. Wes Craven a tendance à faire des films avec un contenu enfantin présenté de manière adulte et vice versa ! Cela fait de A Nightmare on Elm Street un film pour jeunes adolescents et pour les débutants en Horreur. Mais si le film est inégal, c'est aussi parce que beaucoup de moments sont classiques.
-
-Score qualité : ★★★☆☆
-
-Score personnel : ♥♥♥♥♡
