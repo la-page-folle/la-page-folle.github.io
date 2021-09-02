@@ -1,0 +1,3 @@
+[submodule "la-page-folle-tools"]
+	path = la-page-folle-tools
+	url = git@github.com:la-page-folle/la-page-folle-tools.git
