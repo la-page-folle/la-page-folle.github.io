@@ -9,6 +9,8 @@ stars: 3
 hearts: 4
 ---
 
+Note : Cette critique est ancienne et ne reflète plus nécessairement l'opinion du rédacteur. Elle sera prochainement remplacée.
+
 Dans les années 80, après qu'Halloween ait popularisé le Slasher, le genre est tombé dans l'auto parodie à une vitesse alarmante.
 Le principe est simple : on prend 5 à 10 personnages (souvent des adolescents) puis un tueur les décime un par un jusqu'à ce qu'il n'en reste plus aucun, ou qu'ils ripostent. Halloween prenait place à Halloween (si si) mais avant il y avait Black Christmas qui se passait à Noël, puis Vendredi 13, Graduation Day, Bloody Valentine... Après que tout le calendrier y soit passé, il a bien fallu se renouveler. Arrive donc en 1984 A Nightmare on Elm Street qui se passe dans les rêves (sur Elm Street) !
 
