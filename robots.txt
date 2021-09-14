@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-Sitemap: http://www.example.com/sitemap.xml
+Sitemap: https://la-page-folle.github.io/sitemap.xml
