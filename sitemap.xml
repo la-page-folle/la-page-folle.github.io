@@ -1,23 +1,15 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://la-page-folle.github.io/</loc>
-    <lastmod>2021-09-12</lastmod>
-  </url>{% for post in site.posts %}
-  <url>{% if post.categories contains "critique" %}
-    <news:news>
-    <news:publication>
-      <news:name>La Page Folle</news:name>
-      <news:language>fr</news:language>
-    </news:publication>
-    <news:publication_date>{{ post.date | date: "%Y-%m-%d" }}</news:publication_date>
-      <news:title>Critique de {{ post.title }}</news:title>
-     </news:news>{% else %}
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>{% endif %}
-  </url>{% endfor %}
+   <loc>https://la-page-folle.github.io/the-unholy-2021</loc>
+   <news:news>
+   <news:publication>
+     <news:name>La Page Folle</news:name>
+     <news:language>fr</news:language>
+   </news:publication>
+   <news:publication_date>2021-09-11</news:publication_date>
+     <news:title>The Unholy</news:title>
+    </news:news>
+  </url>
 </urlset>
