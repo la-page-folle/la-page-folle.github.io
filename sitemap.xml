@@ -15,7 +15,7 @@ layout: null
       <news:language>fr</news:language>
     </news:publication>
     <news:publication_date>{{ post.date | date: "%Y-%m-%d" }}</news:publication_date>
-      <news:title>Critique de {{ post.title }}</news:title>
+      <news:title>Critique de {{ post.title | xml_escape }}</news:title>
      </news:news>{% else %}
     <loc>{{ site.url }}{{ post.url }}</loc>
     <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>{% endif %}
