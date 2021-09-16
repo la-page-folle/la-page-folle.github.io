@@ -24,12 +24,12 @@ Note qui reflète la qualité du moment passé par le critique.
 
 ### L'échelle
 
-★☆☆☆☆ / ♥♡♡♡♡ : Mauvais; une perte de temps
+★☆☆☆☆ : Mauvais; une perte de temps
 
-★★☆☆☆ / ♥♥♡♡♡ : Médiocre; un film avec quelques idées, quelques fous-rires ou une technique généralement maîtrisée
+★★☆☆☆ : Médiocre; un film avec quelques idées, quelques fous-rires ou une technique généralement maîtrisée
 
-★★★☆☆ / ♥♥♥♡♡ : Bon; une expérience divertissante mais inégale ou pas particulièrement inspirée
+★★★☆☆ : Bon; une expérience divertissante mais inégale ou pas particulièrement inspirée
 
-★★★★☆ / ♥♥♥♥♡ : Très bon; un film sans gros défaut et beaucoup de qualités, certainement à regarder pour les cinéphiles
+★★★★☆ : Très bon; un film sans gros défaut et beaucoup de qualités, certainement à regarder pour les cinéphiles
 
-★★★★★ / ♥♥♥♥♥ : Excellent; à regarder sans hésitation
+★★★★★ : Excellent; à regarder sans hésitation
