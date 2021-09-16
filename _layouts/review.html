@@ -2,13 +2,9 @@
 layout: default
 ---
 
-<p>Score qualité : {% for i in (1..page.stars) %}★{% endfor %}{% for i in (page.stars..4) %}☆{% endfor %}</p>
-
-<p>Score personnel : {% for i in (1..page.hearts) %}♥{% endfor %}{% for i in (page.hearts..4) %}♡{% endfor %}</p>
-
 <div class="post-content">
   <h1>
-    {{ page.title }} ({{ page.director }}, {{ page.year }}) <img src = "{{ site.github.url }}/assets/img/tags/Moins{{ page.classification }}.svg" style="height:10px" alt="(-{{ page.classification }})"/>
+    {{ page.title }} ({{ page.director }}, {{ page.year }})
   </h1>
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
@@ -19,6 +15,10 @@ layout: default
     </div>
   {% endif %}
   <article>
+    <p>Score qualité : {% for i in (1..page.stars) %}★{% endfor %}{% for i in (page.stars..4) %}☆{% endfor %}</p>
+
+    <p>Score personnel : {% for i in (1..page.hearts) %}♥{% endfor %}{% for i in (page.hearts..4) %}♡{% endfor %}</p>
+
     {{ content }}
   </article>
   {% if site.hide_post_share != true %}
