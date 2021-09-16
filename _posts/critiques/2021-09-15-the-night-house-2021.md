@@ -1,7 +1,7 @@
 ---
 layout: critique2
 #title: "The Night House/La proie d'une ombre (David Bruckner, 2020)"
-name: "The Night House/La proie d'une ombre"
+movie: "The Night House/La proie d'une ombre"
 director: "David Bruckner"
 year: "2020"
 author: "Pantalons Inappropriés"
