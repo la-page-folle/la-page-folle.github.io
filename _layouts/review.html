@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<p>Score qualité : {% for i in (1..page.stars) %}★{% endfor %}{% for i in (page.stars..4) %}☆{% endfor %}</p>
+
+<p>Score personnel : {% for i in (1..page.hearts) %}♥{% endfor %}{% for i in (page.hearts..4) %}♡{% endfor %}</p>
+
+<div class="post-content">
+  <h1>
+    {{ page.title }} ({{ page.director }}, {{ page.year }}) <img src = "Moins{{ page.classification }}.svg" alt="(-{{ page.classification }})"/>
+  </h1>
+  {% if site.hide_post_date != true %}
+    {% include post-date.html %}
+  {% endif %}
+  {% if page.image %}
+    <div class="featured-image">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+    </div>
+  {% endif %}
+  <article>
+    {{ content }}
+  </article>
+  {% if site.hide_post_share != true %}
+    {% include post-share.html %}
+  {% endif %}
+  Tags :
+  {% for word in page.tags %}
+    <a href="{{ word }}" class="tag"><span class="tag-name">{{ word }}</span></a>
+  {% endfor %}
+  {% if site.hide_related_posts != true %}
+    {% include related-posts.html %}
+  {% endif %}
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</div>

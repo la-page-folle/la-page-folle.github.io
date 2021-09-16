@@ -1,6 +1,9 @@
 ---
-layout: critique
-title: "The Night House/La proie d'une ombre (David Bruckner, 2020)"
+layout: review
+title: "The Night House/La proie d'une ombre"
+director: "David Bruckner"
+year: "2020"
+classification: "12"
 author: "Pantalons Inappropriés"
 categories: critique
 tags: [2020s,americain,paranormal]
