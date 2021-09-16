@@ -15,7 +15,7 @@
                   {% endif %}
                 </div>
                 <div class="related-title">
-                  {{ mypost.title }}
+                  {% if mypost.layout == "review" %}{{ mypost.title }} ({{ mypost.director }}, {{ mypost.year }}){% else %}{{ mypost.title }}{% endif %}
                 </div>
                 <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
               </a>
