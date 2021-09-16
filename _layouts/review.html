@@ -8,7 +8,7 @@ layout: default
 
 <div class="post-content">
   <h1>
-    {{ page.title }} ({{ page.director }}, {{ page.year }}) <img src = "{{ site.github.url }}/assets/img/tags/Moins{{ page.classification }}.svg" alt="(-{{ page.classification }})"/>
+    {{ page.title }} ({{ page.director }}, {{ page.year }}) <img src = "{{ site.github.url }}/assets/img/tags/Moins{{ page.classification }}.svg" style="height:10px" alt="(-{{ page.classification }})"/>
   </h1>
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
