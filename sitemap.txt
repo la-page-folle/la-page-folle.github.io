@@ -1,2 +1,5 @@
+---
+layout: null
+---
 https://la-page-folle.github.io/
 {% for post in site.posts %}{{ site.url }}{{ post.url }}{% endfor %}
