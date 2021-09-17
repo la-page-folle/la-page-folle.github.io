@@ -44,6 +44,6 @@ Beth est la seule a avoir vu les corps ligotés de ses "leurres", mais l'existen
 
 ## Conclusion :
 
-Pour tous ses défauts superficiels, et son manque occasionnel d'ambition, The Night House reste une expérience satisfaisante. Tous les éléments du film sont exécutés avec professionnalisme, et il offre tout de même une perspective intéressante sur le genre "paranormal".
+Malgré son manque occasionnel d'ambition et ses défauts superficiels, comme le filtre "grain du film" appliqué un peu trop généreusement à l'image numérique, The Night House reste une expérience satisfaisante. Tous les éléments du film sont exécutés avec professionnalisme, et il offre tout de même une perspective intéressante sur le genre "paranormal".
 
 Contrairement à l'archétypal [Sinister](#), The Night House utilise son horreur pour partager des idées, aussi simples soient-elles. "Simple" ne veut pas dire "stupide", et "simple" est parfois suffisant. Bien que les salles de cinéma montrant ce film soient complètement vides, il sera quand même mieux apprécié dans un contexte plus intime. Un contexte où on a l'option de régler le volume à sa guise.
