@@ -1,6 +1,9 @@
 ---
-layout: critique
-title: "A Nightmare on Elm Street - Les Griffes de la nuit (Wes Craven, 1984)"
+layout: review
+title: "A Nightmare on Elm Street/Les Griffes de la Nuit"
+director: "Wes Craven"
+year: "1984"
+classification: "12"
 author: "Pantalons Inappropriés"
 categories: critique
 tags: [1980s,americain,slasher]
