@@ -1,6 +1,9 @@
 {% comment %}
 <!-- This is the code block to define custom syntax -->
 {% endcomment %}
-{% assign output = content %}
+{% assign output = content
+    | replace: '[movie]', '('
+    | replace: '[/movie]', ')'
+%}
 
 {{output}}
