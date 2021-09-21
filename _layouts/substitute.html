@@ -1,9 +1,5 @@
 {% comment %}
 <!-- This is the code block to define custom syntax -->
 {% endcomment %}
-{% assign output = content
-    | replace: '[movie]', '{% assign movie = '
-    | replace: '[/movie]', ' | split: "|"%}{% assign posts = site.posts | where: "title", movie[0] %}{% assign post = posts | where: "year", movie[1] | first %}{% if post %}[{{ post.title }}]({{ post.url }}){% else %}{{ movie[0] }}{% endif %}'
-%}
 
 {{output}}
