@@ -11,5 +11,9 @@
     </div>
     {% include text-expand.html %}
     {% include substitutes.html %}
+    {% assign output = content
+        | replace: '-!', '<u>'
+        | replace: '!-', '</u>'
+    %}
   </body>
 </html>
