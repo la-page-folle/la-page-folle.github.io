@@ -3,7 +3,7 @@
 {% endcomment %}
 {% assign output = content
     | replace: '[movie]', '{% assign text = \"'
-    | replace: '[/movie]', '\" %}\{\{ text \}\}'
+    | replace: '[/movie]', '\" %}{{ text }}'
 %}
 
 {{output}}
