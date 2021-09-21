@@ -2,8 +2,8 @@
 <!-- This is the code block to define custom syntax -->
 {% endcomment %}
 {% assign output = content
+    | replace: '[/movie]', '\" %}{{ text }}test'
     | replace: '[movie]', '{% assign text = \"'
-    | replace: '[/movie]', '\" %}{{ text }}'
 %}
 
 {{output}}
