@@ -1,6 +1,7 @@
 ---
 layout: review
-title: "The Night House/La proie d'une ombre"
+title: "The Night House"
+french: "La proie d'une ombre"
 director: "David Bruckner"
 year: "2020"
 classification: "12"

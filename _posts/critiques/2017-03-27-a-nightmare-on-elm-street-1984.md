@@ -1,6 +1,7 @@
 ---
 layout: review
-title: "A Nightmare on Elm Street/Les Griffes de la Nuit"
+title: "A Nightmare on Elm Street"
+french: "Les Griffes de la nuit"
 director: "Wes Craven"
 year: "1984"
 classification: "12"
