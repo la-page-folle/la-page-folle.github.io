@@ -2,11 +2,11 @@
 <!-- This is the code block to define custom syntax -->
 {% endcomment %}
 
-{% assign content = content | split: '<p' %}
+{% assign content = content | split: '<pre' %}
 
 {% for parts in content %}
 
-  {% assign part = parts | split: '</p>' %}
+  {% assign part = parts | split: '</pre>' %}
   {% assign c = part.first %}
   {% assign t = part.last %}
 
@@ -20,7 +20,7 @@
 
   {% if part.size == 2 %}
 
-    {% capture output %}{{ output }}<p{{ c }}</p>{% endcapture %}
+    {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
 
   {% endif %}
 
