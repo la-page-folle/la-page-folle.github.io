@@ -10,7 +10,7 @@
   {% assign c = part.first %}
   {% assign t = part.last %}
 
-  {% assign t = t | replace: '!movie', 'include movie.html text='
+  {% assign t = t | replace: '<movie>', 'include movie.html text='
                   | replace: '“', '«&#160;'
                   | replace: '”', '&#160;»'
                   | replace: ' :', '&#160;:'
