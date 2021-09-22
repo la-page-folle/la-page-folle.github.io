@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "{%include movie name='The Night House|0'%}"
+title: "The Night House"
 french: "La proie d'une ombre"
 director: "David Bruckner"
 year: "2020"
