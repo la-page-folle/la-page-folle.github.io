@@ -1,5 +1,4 @@
 {% assign movie = include.text | split: '|'%}
 {% assign post = site.posts | where: "title", movie[0]
                             | where: "year", movie[1]
-                            | first %}
-{% if post %}[{{ post.title }}]({{ post.url }}){% else %}{{ movie[0] }}{% endif %}
+                            | first %}{% if post %}[{{ post.title }}]({{ post.url }}){% else %}{{ movie[0] }}{% endif %}
