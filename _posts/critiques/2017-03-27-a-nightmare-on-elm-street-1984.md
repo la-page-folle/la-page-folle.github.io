@@ -5,7 +5,7 @@ french: "Les Griffes de la nuit"
 director: "Wes Craven"
 year: "1984"
 classification: "12"
-author: "Pantalons Inappropriés"
+author: "Boris Moon"
 categories: critique
 tags: [1980s,americain,slasher]
 image: critiques/a-nightmare-on-elm-street-1984.jpg

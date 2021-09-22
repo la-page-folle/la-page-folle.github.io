@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Films americains"
-author: "Pantalons Inappropriés"
+author: "Boris Moon"
 categories: tag
 #tags: [americain]
 tag: americain

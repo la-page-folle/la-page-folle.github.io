@@ -5,7 +5,7 @@ french: "La proie d'une ombre"
 director: "David Bruckner"
 year: "2020"
 classification: "12"
-author: "Pantalons Inappropriés"
+author: "Boris Moon"
 categories: critique
 tags: [2020s,americain,paranormal]
 image: critiques/the-night-house-2020.jpg
