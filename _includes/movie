@@ -2,4 +2,4 @@
 {% assign p = site.posts
 | where: "title", m[0]
 | where: "year", m[1]
-| first %}{%if p%}[{{p.title}}]({{p.url}}){%else%}<abbr>{{m[0]}}</abbr>{%endif%}
+| first %}{%if p%}[{{p.title}}]({{p.url}}){%else%}<d>{{m[0]}}</d>{%endif%}

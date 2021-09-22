@@ -64,6 +64,11 @@ p {
   font-family: $body-font-family;
 }
 
+d {
+  border-bottom: 1px dashed #999;
+  text-decoration: none;
+}
+
 /* Lists */
 ul, ol, dl {
   margin-top: 1rem;
