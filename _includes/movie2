@@ -1,5 +1,0 @@
-{% assign m = include.name | split: '|'%}
-{% assign p = site.posts
-| where: "title", m[0]
-| where: "year", m[1]
-| first %}{%if p%}[{{p.title}}]({{p.url}}){%else%}<u>{{m[0]}}</u>{%endif%}
