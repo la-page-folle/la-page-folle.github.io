@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "The Night House"
+title: "{%include movie name='The Night House|0'%}"
 french: "La proie d'une ombre"
 director: "David Bruckner"
 year: "2020"
@@ -15,7 +15,7 @@ hearts: 3
 
 ## Synopsis et vue d'ensemble :
 
-Avertissement, The Night House ne contient que 3 ou 4 jumpscare, concentrés au début du film. Je préfère vous en informer pour que vous puissiez vous relaxer le restant du visionnage pour profiter de l'atmosphère. Le scénario tourne autour du personnage de Beth et de sa vie en isolation juste après le décès de son mari, Owen. Dans la première scène, Beth regagne la maison que Owen a bâtie et dans laquelle ils ont longtemps vécu. Contrairement à {%include movie name='A Ghost Story|2017'%}, le film ne se donne pas le temps d'être mélancolique, et des événements inquiétants viennent immédiatement perturber le deuil de Beth.
+Avertissement, {%include movie name='The Night House|0'%} ne contient que 3 ou 4 jumpscare, concentrés au début du film. Je préfère vous en informer pour que vous puissiez vous relaxer le restant du visionnage pour profiter de l'atmosphère. Le scénario tourne autour du personnage de Beth et de sa vie en isolation juste après le décès de son mari, Owen. Dans la première scène, Beth regagne la maison que Owen a bâtie et dans laquelle ils ont longtemps vécu. Contrairement à {%include movie name='A Ghost Story|2017'%}, le film ne se donne pas le temps d'être mélancolique, et des événements inquiétants viennent immédiatement perturber le deuil de Beth.
 
 Ce choix scénaristique est cependant bienvenu compte-tenu de l'état d'esprit de notre protagoniste : combative et proactive. Sans être particulièrement complexe, le personnage est suffisamment établi pour être confronté à des situations variées, et réagir en conséquence sans perdre en cohérence ou réalisme. Le spectateur fait face à un moment difficile de la vie de Beth, ce qui le force à poliment se trouver une place aux côtés des seconds rôles. Ce derniers ne peuvent offrir que des informations ou conseils, l'histoire étant entièrement subordonnée à la volonté de la protagoniste.
 
@@ -23,7 +23,7 @@ Ce ton très introspectif est une épée à double tranchant. En effet, le jeu d
 
 Ce n'est exactement la dynamique d'un film “paranormal” standard, où on est à la fois fascinés et effrayés par l'inconnu. Contrairement à un mauvais exemple du genre, où les cauchemars du personnage ne seraient qu'une excuse pour faire peur au public sans aucune conséquence, ici ils peuvent révéler la psyché de notre protagoniste. Ce n'est pas une opportunité qui est pleinement saisie, puisque l'histoire et la psyché en question manque de profondeur.
 
-The Night House est un peu frustrant par son manque occasionnel de mordant ou de frissons. C'est en grande partie dû au premier acte, qui est trop proche des conventions du genre pour correctement établir l'ambiance du deuxième. Imaginez devoir marier le début de {%include movie name='Us|2019'%} avec le milieu de {%include movie name='Enemy|2013'%}. Le changement n'est bien sûr pas aussi dramatique, mais le film aurait pu prendre son temps, et supprimer ces jumpscare intrusifs, quitte à se rattraper sur la fin.
+{%include movie name='The Night House|0'%} est un peu frustrant par son manque occasionnel de mordant ou de frissons. C'est en grande partie dû au premier acte, qui est trop proche des conventions du genre pour correctement établir l'ambiance du deuxième. Imaginez devoir marier le début de {%include movie name='Us|2019'%} avec le milieu de {%include movie name='Enemy|2013'%}. Le changement n'est bien sûr pas aussi dramatique, mais le film aurait pu prendre son temps, et supprimer ces jumpscare intrusifs, quitte à se rattraper sur la fin.
 
 Le troisième acte, bien que relativement court, est satisfaisant. L'intrigue jusqu'à ce point n'est pas cousue de fil blanc, et la réalisation devient progressivement plus audacieuse. Avant cette digression dans des visuels plus abstraits, le réalisateur avait déjà la bonne idée de varier les décors et interactions. Tout ceci est accompli en respectant la claustrophobie et le sentiment d'isolation et d'aliénation que le film essaie de produire.
 
@@ -45,6 +45,6 @@ Beth est la seule a avoir vu les corps ligotés de ses “leurres”, mais l'exi
 
 ## Conclusion :
 
-Malgré son manque occasionnel d'ambition et ses défauts superficiels, comme le filtre “grain du film” appliqué un peu trop généreusement à l'image numérique, The Night House reste une expérience satisfaisante. Tous les éléments du film sont exécutés avec professionnalisme, et il offre tout de même une perspective intéressante sur le genre “paranormal”.
+Malgré son manque occasionnel d'ambition et ses défauts superficiels, comme le filtre “grain du film” appliqué un peu trop généreusement à l'image numérique, {%include movie name='The Night House|0'%} reste une expérience satisfaisante. Tous les éléments du film sont exécutés avec professionnalisme, et il offre tout de même une perspective intéressante sur le genre “paranormal”.
 
-Contrairement à l'archétypal {%include movie name='Sinister|2012'%}, The Night House utilise son horreur pour partager des idées, aussi simples soient-elles. “Simple” ne veut pas dire “stupide”, et “simple” est parfois suffisant. Bien que les salles de cinéma montrant ce film soient complètement vides, il sera quand même mieux apprécié dans un contexte plus intime. Un contexte où on a l'option de régler le volume à sa guise.
+Contrairement à l'archétypal {%include movie name='Sinister|2012'%}, {%include movie name='The Night House|0'%} utilise son horreur pour partager des idées, aussi simples soient-elles. “Simple” ne veut pas dire “stupide”, et “simple” est parfois suffisant. Bien que les salles de cinéma montrant ce film soient complètement vides, il sera quand même mieux apprécié dans un contexte plus intime. Un contexte où on a l'option de régler le volume à sa guise.
