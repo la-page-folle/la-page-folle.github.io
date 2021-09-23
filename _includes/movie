@@ -1,4 +1,4 @@
-{% assign m = include.name
+{%- assign m = include.name
 | split: '|'%}{% assign p = site.posts
 | where: "title", m[0]
 | where: "year", m[1]
