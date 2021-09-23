@@ -5,7 +5,7 @@ french: "House II: la deuxième histoire"
 director: "Ethan Wiley"
 year: "1987"
 classification: "12"
-author: "Pantalons Inappropriés"
+author: "Boris Moon"
 categories: critique
 tags: [1980s,americain,maison-hantee]
 image: critiques/house-ii-the-second-story-1987.jpg
