@@ -13,6 +13,8 @@ stars: 3
 hearts: 4
 ---
 
+{%movie='Halloween|1978'%}
+
 Note : Cette critique est ancienne et ne reflète plus nécessairement l'opinion du rédacteur. Elle sera prochainement remplacée.
 
 Dans les années 80, après qu'{%include movie name='Halloween|1978'%} ait popularisé le Slasher, le genre est tombé dans l'auto parodie à une vitesse alarmante. Le principe est simple : on prend 5 à 10 personnages (souvent des adolescents) puis un tueur les décime un par un jusqu'à ce qu'il n'en reste plus aucun, ou qu'ils ripostent. Halloween prenait place à Halloween (si si) mais avant il y avait {%include movie name='Black Christmas|1974'%} qui se passait à Noël, puis {%include movie name='Friday the 13th|1980'%}, {%include movie name='Graduation Day|1981'%}, {%include movie name='Bloody Valentine|1981'%}... Après que tout le calendrier y soit passé, il a bien fallu se renouveler. Arrive donc en 1984 {%include movie name='A Nightmare on Elm Street|1984'%} qui se passe dans les rêves (sur Elm Street) !
