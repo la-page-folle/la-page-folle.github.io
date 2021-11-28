@@ -5,7 +5,7 @@ layout: default
 <div class="post-content">
   <h1>
     {{ page.title }}{% if page.french %}/{{ page.french }}{% endif %} ({{ page.director }}, {{ page.year }})
-    {%- if page.tags contains 'francais' %}:fr:{% endif %}
+     <!--{%- if page.tags contains 'francais' %}🇫🇷{% endif %}-->
   </h1>
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
