@@ -6,7 +6,7 @@ layout: default
   <h1>
     {{ page.title }}{% if page.french %}/{{ page.french }}{% endif %} ({{ page.director }}, {{ page.year }})
      <!--{%- if page.tags contains 'francais' %}🇫🇷{% endif %}-->
-     {%- if page.classification != '0' %}<img src="{{ site.github.url }}/assets/img/tags/Moins{{ page.classification }}.svg" style="height: 1em;display: inline;vertical-align:middle">{% endif %}
+     {%- if page.classification != '0' %}<img src="{{ site.github.url }}/assets/img/tags/Moins{{ page.classification }}.svg" style="height: 1em;display: inline;vertical-align:middle;background-blend-mode: screen;">{% endif %}
   </h1>
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
