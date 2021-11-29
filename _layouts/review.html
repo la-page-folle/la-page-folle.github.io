@@ -5,8 +5,8 @@ layout: default
 <div class="post-content">
   <h1>
     {{ page.title }}{% if page.french %}/{{ page.french }}{% endif %} ({{ page.director }}, {{ page.year }})
+    {%- if page.classification == '12' %}<img src="{{ site.github.url }}/assets/img/tags/Moins12.svg" style="height: 1em">{% endif %}
      <!--{%- if page.tags contains 'francais' %}🇫🇷{% endif %}-->
-     {%- if page.classification == '12' %}<img src="{{ site.github.url }}/assets/img/tags/Moins12.svg" style="height: 1em">{% endif %}
   </h1>
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
