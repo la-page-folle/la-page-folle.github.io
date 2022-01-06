@@ -26,7 +26,7 @@ Dans ce film, un groupe de rock en manque d'inspiration se procure une compositi
 
 En 2016, la bande originale est sortie en CD et vinyle, exclusivement en Italie, et bien sûr aucun crédit n'est donné aux compositeurs des originaux. Le générique du film ne mentionne même pas les chansons, peut-être dans l'espoir que personne ne pose de questions sur la musique qui passe alors que les crédits défilent. Le choix de *Twillight*, qui commençait déjà à dater, est encore une fois cohérent avec le contenu de {%include movie name='Paganini Horror|0'%}, mais pas nécessairement de la façon escomptée.
 
-## Spoilers ? :
+## Spoilers ?
 
 [expand]
 
@@ -44,7 +44,7 @@ Cette révélation est bien pratique pour justifier tous les états d'âmes de l
 
 ## Conclusion :
 
-Le cynique pourra trouver le choix de *Twillight* assez ironique, puisque le film qui se déroule principalement pendant la nuit, a été tourné intégralement en plein jour. La technique du jour-pour-nuit est libératrice pour le réalisateur qui manque de moyens ou de temps, mais en cas d'abus le spectateur finira très vite par remarquer que quelque chose cloche. Il y a quelque chose qui cloche avec {%include movie name='Paganini Horror|0'%}, car son abondance d'idées ne se traduit pas par une histoire satisfaisante. Elle ne se traduit pas non plus par une grande variété de scènes divertissantes, à défaut d'être cohérentes.
+Le cynique pourra trouver le choix de *Twillight* assez ironique, puisque le film qui se déroule principalement pendant la nuit, a été tourné intégralement en plein jour. La technique du jour-pour-nuit est libératrice pour le réalisateur qui manque de moyens ou de temps, mais en cas d'abus le spectateur finira très vite par remarquer que quelque chose cloche. Il y a quelque chose qui cloche avec {%include movie name='Paganini Horror|0'%}, car les sporadiques moments d'inspiration ne se traduisent pas par une histoire satisfaisante. Ils ne se traduisent pas non plus par une grande variété de scènes divertissantes, à défaut d'être cohérentes.
 
 Le film se déroule tel le Let's Play laborieux d'un Point-and-click obscur, où le joueur ne prend pas le temps d'explorer les branches les plus prometteuses du scénario. Il passe à côté de la majorité des événements importants, consacrant son temps à errer dans les couloirs et monter puis descendre les escaliers. Le film est aussi un précurseur aux expérimentations visuelles de {%include movie name='Silent Hill|2006'%} : le recyclage excessif des angles de vue utilisés pour chaque salle évoque le style des premiers Survival Horror sur Playstation et PC. C'est bien sûr le résultat d'un tournage en accéléré, où un maximum de plans sont tournés sans bouger la caméra ou refaire l'éclairage, et pas le dessein d'un directeur de la photographie visionnaire.
 
