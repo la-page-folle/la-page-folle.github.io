@@ -55,20 +55,21 @@
 }
 */
 //"desktop": multiple posters per line
-/*.poster {
+.poster {
   float:left;
   width:33.33%;
   //padding:1px;
-}*/
-@media (min-width: $container-width) {
+}
+/*@media (min-width: $container-width) {
   .dropbtn {
     float:left;
     width:33.33%;
   }
-}
-//"mobile": one poster per line
-/*@media (max-width: $container-width) {
-  .poster {
-    //width: 100%;
-  }
 }*/
+//"mobile": one poster per line
+@media (max-width: $container-width) {
+  .poster {
+    float:none;
+    width:100%;
+  }
+}
