@@ -11,7 +11,7 @@ menu:
 #- {name: 'Learning Resources', url: 'resources'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Critiques',          url: 'critiques'}
-- {name: 'Par décennie',       url: 'decennie'}
+- {name: 'Par décennie',       url: 'decennies'}
 - {name: 'Par pays',           url: 'pays'}
 - {name: 'Critiques',          url: 'critiques'}
 - {name: 'Catégories',         url: 'tags'}
