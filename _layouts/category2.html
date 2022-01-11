@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  {% if post.categories contains page.category %}
+  <article>
+    {% include featured-post2.html %}    
+  </article>
+  {% endif %}
+{% endfor %}
