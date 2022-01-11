@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Par genre
-category: genres
+category: genre
 permalink: /genres
 ---

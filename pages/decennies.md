@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Par décennie
-category: decennies
+category: decennie
 permalink: /decennies
 ---
