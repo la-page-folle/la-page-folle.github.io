@@ -2,7 +2,7 @@
 layout: tag
 title: "Films americains"
 author: "Boris Moon"
-categories: tag
+categories: [tag, pays]
 #tags: [americain]
 tag: americain
 image: tags/americain.jpg
