@@ -57,12 +57,12 @@
 //"desktop": multiple posters per line
 .poster {
   float:left;
-  width:33%;
+  width:33.33%;
   //padding:1px;
 }
 //"mobile": one poster per line
 @media (max-width: $container-width) {
   .poster {
-    width: 100%;
+    //width: 100%;
   }
 }
