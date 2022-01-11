@@ -13,7 +13,7 @@ menu:
 - {name: 'Critiques',          url: 'critiques'}
 - {name: 'Par décennie',       url: 'decennies'}
 - {name: 'Par pays',           url: 'pays'}
-- {name: 'Critiques',          url: 'critiques'}
+- {name: 'Par genre',          url: 'genres'}
 - {name: 'Catégories',         url: 'tags'}
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'A propos',           url: 'about'}
