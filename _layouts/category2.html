@@ -3,9 +3,9 @@ layout: default
 ---
 
 {% for post in site.posts %}
+<article>
   {% if post.categories contains page.category %}
-  <article>
-    {% include featured-post2.html %}    
-  </article>
+    {% include featured-post2.html %}
   {% endif %}
+</article>
 {% endfor %}
