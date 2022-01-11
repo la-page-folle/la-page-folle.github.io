@@ -32,3 +32,37 @@
     width: 95vw;
   }
 }
+
+/*
+  Show movie posters
+*/
+/*
+@media (min-width: $container-width) {
+  .dropbtn {
+    display: none;
+  }
+}
+@media (max-width: $container-width) {
+  .dropbtn {
+    background-color: var(--bg-color);
+    color: var(--main-color);
+    padding: 16px;
+    margin-top: 4px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+}
+*/
+//"desktop": multiple posters per line
+.poster {
+  float:left;
+  width:33%;
+  //padding:1px;
+}
+//"mobile": one poster per line
+@media (max-width: $container-width) {
+  .poster {
+    width: 100%;
+  }
+}
