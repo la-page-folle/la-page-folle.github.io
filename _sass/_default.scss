@@ -36,40 +36,19 @@
 /*
   Show movie posters
 */
-/*
-@media (min-width: $container-width) {
-  .dropbtn {
-    display: none;
-  }
-}
-@media (max-width: $container-width) {
-  .dropbtn {
-    background-color: var(--bg-color);
-    color: var(--main-color);
-    padding: 16px;
-    margin-top: 4px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-  }
-}
-*/
 //"desktop": multiple posters per line
+//@media (min-width: $container-width) {
 .poster {
   float:left;
   width:33.33%;
   //padding:1px;
 }
-/*@media (min-width: $container-width) {
-  .dropbtn {
-    float:left;
-    width:33.33%;
-  }
-}*/
+//}
 //"mobile": one poster per line
 @media (max-width: $container-width) {
   .poster {
     float:none;
     width:100%;
+    //padding:1px;
   }
 }

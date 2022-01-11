@@ -1,5 +1,5 @@
 ---
-layout: category2
+layout: category
 title: Critiques
 category: critique
 permalink: /critiques

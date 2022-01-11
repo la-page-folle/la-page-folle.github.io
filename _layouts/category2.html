@@ -5,9 +5,7 @@ layout: default
 <!--<div style="content:'';clear:both;display:table;">-->
 {% for post in site.posts %}
   {% if post.categories contains page.category %}
-  <!--div style="float:left;width:25%;padding:5px;"-->
     {% include featured-post2.html %}
-  <!--/div-->
   {% endif %}
 {% endfor %}
 <div style="content:'';clear:both;"></div>
