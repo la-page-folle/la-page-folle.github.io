@@ -2,8 +2,9 @@
 layout: default
 ---
 
+{% assign sortedPosts = site.posts | sort: 'title' %}
 <!--<div style="content:'';clear:both;display:table;">-->
-{% for post in site.posts %}
+{% for post in sortedPosts %}
   {% if post.categories contains page.category %}
     {% include featured-poster.html %}
   {% endif %}
