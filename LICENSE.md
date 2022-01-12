@@ -1,6 +1,6 @@
 # Blog contents
 
-Copyright (c) 2021 Pantalons Inappropriés, all rights reserved.
+Copyright (c) 2022 Pantalons Inappropriés, all rights reserved.
 
 # Millennial theme
 
