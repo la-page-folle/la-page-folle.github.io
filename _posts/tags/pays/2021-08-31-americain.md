@@ -1,11 +1,10 @@
 ---
 layout: tag
-title: "Films americains"
+title: "Films américains"
 author: "Boris Moon"
 categories: [tag, pays]
-#tags: [americain]
 tag: americain
-image: tags/americain.jpg
+image: tags/pays/americain.jpg
 ---
 
 Films d'origine americaine ou thématiquement liés à ce pays.
