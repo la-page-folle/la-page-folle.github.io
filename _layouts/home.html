@@ -5,11 +5,11 @@ title: Home
 
 <div class="home-content">
   <h1>Bienvenue sur la page folle !</h1>
-  <!--h2>Dernière critique :</h2-->
+  <h2>Dernière critique :</h2>
   {% assign critiques = site.posts | where: "categories","critique" %}
   {% assign post = critiques.first %}
   {% include featured-post.html %}
-  <!--h2>Autres articles :</h2-->
+  <h2>Autres articles :</h2>
 </div>
 
 {% for post in paginator.posts %}
