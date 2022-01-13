@@ -4,8 +4,7 @@ layout: post
 
 {{ content }}
 
-{% assign filtered_posts = site.posts | where: page.property, page.tag %}
-
+{% assign filtered_posts = site.posts | where: page.property, page.value %}
 {% for post in filtered_posts %}
   {% include featured-post.html %}
 {% endfor %}
