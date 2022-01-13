@@ -8,4 +8,5 @@ layout: post
 {% for post in filtered_posts %}
   {% unless post.categories contains "property" %}
     {% include featured-post.html %}
+  {% endunless %}
 {% endfor %}
