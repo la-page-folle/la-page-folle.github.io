@@ -6,5 +6,6 @@ layout: post
 
 {% assign filtered_posts = site.posts | where: page.property, page.value %}
 {% for post in filtered_posts %}
-  {% include featured-post.html %}
+  {% unless post.categories contains "property" %}
+    {% include featured-post.html %}
 {% endfor %}
