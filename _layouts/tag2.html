@@ -5,7 +5,7 @@ layout: post
 {{ content }}
 
 {% assign filtered_posts = site.posts | where: page.property, page.tag %}
-<!--{% assign filtered_posts = site.posts | where_exp: "item", "itempage.property }} contains {{ page.tag }}" %}-->
+
 {% for post in filtered_posts %}
   {% unless post.categories contains "tag" %}
     {% include featured-post.html %}
