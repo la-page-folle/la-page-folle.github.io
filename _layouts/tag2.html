@@ -7,7 +7,5 @@ layout: post
 {% assign filtered_posts = site.posts | where: page.property, page.tag %}
 
 {% for post in filtered_posts %}
-  {% unless post.categories contains "tag" %}
-    {% include featured-post.html %}
-  {% endunless %}
+  {% include featured-post.html %}
 {% endfor %}
