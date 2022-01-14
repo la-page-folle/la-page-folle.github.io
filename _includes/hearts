@@ -1,0 +1,1 @@
+{% for i in (1..include.num) %}♥{% endfor %}{% for i in (include.num..4) %}♡{% endfor %}
