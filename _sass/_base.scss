@@ -104,12 +104,17 @@ a {
   text-decoration: none;
 }
 
-a:link, a:visited .simple {
+.simple a:link {
   color: inherit;
   text-decoration: inherit;
 }
 
-a:hover .simple {
+.simple a:visited {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.simple a:hover {
   color: var(--brand-color);
 }
 
