@@ -106,17 +106,17 @@ a {
 
 .simple a:link {
   color: inherit;
-  text-decoration: inherit;
+  text-decoration: none!important;
 }
 
 .simple a:visited {
   color: inherit;
-  text-decoration: inherit;
+  text-decoration: none!important;
 }
 
-.simple a:hover {
+/*.simple a:hover {
   color: var(--brand-color);
-}
+}*/
 
 /*
   Blockquote
