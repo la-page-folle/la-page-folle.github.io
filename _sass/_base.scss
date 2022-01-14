@@ -104,6 +104,15 @@ a {
   text-decoration: none;
 }
 
+a .simple {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:hover .simple {
+  color: var(--brand-color);
+}
+
 /*
   Blockquote
 */
