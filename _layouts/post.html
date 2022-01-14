@@ -7,7 +7,7 @@ layout: default
     {{ page.title }}
   </h1>
   {% if site.hide_post_date != true %}
-    {% if page.date %}  
+    {% if page.date %}
       {% include post-date.html %}
     {% endif %}
   {% endif %}
@@ -22,10 +22,7 @@ layout: default
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
-  Tags :
-  {% for word in page.tags %}
-    <a href="{{ word }}" class="tag"><span class="tag-name">{{ word }}</span></a>
-  {% endfor %}
+  {% include tags.html %}
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
