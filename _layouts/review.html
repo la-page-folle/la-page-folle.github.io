@@ -21,7 +21,7 @@ layout: default
     </div>
   {% endif %}
   <article>
-    <p>Score qualité : <p href="{{ page.stars }}-stars">{% for i in (1..page.stars) %}★{% endfor %}{% for i in (page.stars..4) %}☆{% endfor %}</p></p>
+    <p>Score qualité : <a href="{{ page.stars }}-stars">{% for i in (1..page.stars) %}★{% endfor %}{% for i in (page.stars..4) %}☆{% endfor %}</a></p>
 
     <p>Score personnel : {% for i in (1..page.hearts) %}♥{% endfor %}{% for i in (page.hearts..4) %}♡{% endfor %}</p>
 

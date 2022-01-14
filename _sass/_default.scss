@@ -54,7 +54,6 @@
 }
 
 .simple a {
-  font-family: $base-font-family;
-  background-color: var(--bg-color);
-  color: var(--main-color);
+  color: inherit;
+  text-decoration: inherit;
 }
