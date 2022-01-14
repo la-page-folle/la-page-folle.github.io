@@ -18,7 +18,9 @@
   {{ page.date | date: "%Y" }}
   par
   {% if page.author %}
-    {{ page.author }}
+    <a href="{{ page.author | replace: ' ', '-' | downcase }}"
+       style="color:inherit;
+              text-decoration:inherit;">{{ page.author }}</a>
   {% else %}
     {{ site.author }}
   {% endif %}
