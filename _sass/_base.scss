@@ -104,7 +104,7 @@ a {
   text-decoration: none;
 }
 
-.simple {
+a:link, a:visited .simple {
   color: inherit;
   text-decoration: inherit;
 }
