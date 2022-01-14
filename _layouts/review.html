@@ -21,12 +21,10 @@ layout: default
     </div>
   {% endif %}
   <article>
-    <p>Score qualité : <a
-      href="{{ page.stars }}-stars"
+    <p>Score qualité : <a href="{{ page.stars }}-stars"
       style="color:inherit;text-decoration:inherit;"
         >{% include stars num=page.stars %}</a></p>
-    <p>Score personnel : <a
-      href="{{ page.hearts }}-hearts"
+    <p>Score personnel : <a href="{{ page.hearts }}-hearts"
       style="color:inherit;text-decoration:inherit;"
         >{% include hearts num=page.hearts %}</a></p>
     {{ content }}
@@ -34,10 +32,7 @@ layout: default
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
-  Tags :
-  {% for word in page.tags %}
-    <a href="{{ word }}" class="tag"><span class="tag-name">{{ word }}</span></a>
-  {% endfor %}
+  {% include tags.html %}
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
