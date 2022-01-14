@@ -7,6 +7,7 @@ layout: default
     {{ page.title }}{% if page.french %}/{{ page.french }}{% endif %} ({{ page.director }}, {{ page.year }})
      <!--{%- if page.tags contains 'francais' %}🇫🇷{% endif %}-->
      {%- if page.classification != '0' %}<img
+      href="moins{{ page.classification }}"
       src="{{ site.github.url }}/assets/img/tags/classification/Moins{{ page.classification }}.svg"
       style="height: 1em;
              display: inline;
