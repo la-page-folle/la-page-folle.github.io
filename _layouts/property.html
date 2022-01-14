@@ -3,7 +3,7 @@ layout: post
 ---
 
 {{ content }}
-
+<!--the 'unless' statement is only useful for the 'author' property-->
 {% assign filtered_posts = site.posts | where: page.property, page.value %}
 {% for post in filtered_posts %}
   {% unless post.categories contains "property" %}
