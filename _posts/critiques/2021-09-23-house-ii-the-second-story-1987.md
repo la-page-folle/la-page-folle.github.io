@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: critique
 title: "House II: The Second Story"
 french: "House II: la deuxième histoire"
 director: "Ethan Wiley"

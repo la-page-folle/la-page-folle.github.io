@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: critique
 title: "Paganini Horror"
 director: "Luigi Cozzi"
 year: "1988"

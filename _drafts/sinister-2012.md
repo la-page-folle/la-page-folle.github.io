@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: critique
 title: "Sinister"
 director: "Scott Derrickson"
 year: "2012"

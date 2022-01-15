@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: critique
 title: "The Night House"
 french: "La proie d'une ombre"
 director: "David Bruckner"

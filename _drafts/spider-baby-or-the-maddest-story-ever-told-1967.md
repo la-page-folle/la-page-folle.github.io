@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: critique
 title: "Spider Baby or, the Maddest Story Ever Told"
 director: "Jack Hill"
 year: "1967"
