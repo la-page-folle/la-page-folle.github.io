@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: critique
 title: "A Nightmare on Elm Street"
 french: "Les Griffes de la nuit"
 director: "Wes Craven"

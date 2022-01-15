@@ -1,5 +1,5 @@
 {{ page.title }}
-{% if page.french %}/{{ page.french }}{% endif %} ({{ page.director }}, {{ page.year }})
+{%- if page.french %}/{{ page.french }}{% endif %} ({{ page.director }}, {{ page.year }})
  <!--{%- if page.tags contains 'francais' %}🇫🇷{% endif %}-->
 {%- if page.classification != '0' %}
   <a href="moins{{ page.classification }}">

@@ -4,11 +4,11 @@ layout: default
 
 <div class="post-content">
   <h1>
-  {% if page.categories contains "critique" %}
-    {% include title.html %}
-  {% else %}
-    {{ page.title }}
-  {% endif %}
+    {% if page.categories contains "critique" %}
+      {% include title.html %}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
   </h1>
   {% if site.hide_post_date != true %}
     {% if page.date %}
