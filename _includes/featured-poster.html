@@ -2,9 +2,11 @@
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
       <h2><span>{% if post.layout == "critique" %}{{ post.title }}{% if post.french %}/{{ post.french }}{% endif %}{% else %}{{ post.title }}{% endif %}</span></h2>
-      {% if post.layout == "critique" %}<h2 style="right:0;bottom:inherit;"><span>{{ post.year }}</span></h2>
-      <img src="{{ site.github.url }}/assets/img/tags/classification/Moins{{ post.classification }}.svg"
-           style="height:1em;display:inline;vertical-align:text-top;">{% endif %}
+      {% if post.layout == "critique" %}
+        <h2 style="right:0;bottom:inherit;"><span>{{ post.year }}</span></h2>
+        <h2><span><img src="{{ site.github.url }}/assets/img/tags/classification/Moins{{ post.classification }}.svg"
+                       style="height:1em;display:inline;vertical-align:text-top;"></span></h2>
+      {% endif %}
     </div>
   </a>
 </article>
