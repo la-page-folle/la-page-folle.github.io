@@ -16,11 +16,9 @@ hearts: 2
 
 {%include movie name='After Blue (Paradis sale)|0'%} est à ce jour le meilleur western érotique de science-fiction fantastique rétro français. Pour son marketing, le film a beaucoup utilisé l'image horrifique de la protagoniste, son regard tourné vers l'audience, devant une tête avec un trou béant en guise de visage. Je ne pense pas que ce soit un spoiler, mais bien mon devoir, d'informer le potentiel public de {%include movie name='After Blue (Paradis sale)|0'%} que rien de tel ne se produit avant le générique de fin.
 
-
 l'image la plus marquante du film est après le générique
 
 pas exactement horrifique
-
 
 ressemble à un clip de métal moderne mais arrive presque à s'en tirer avec le style
 
