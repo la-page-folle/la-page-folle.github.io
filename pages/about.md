@@ -10,7 +10,7 @@ La page folle est un blog contenant des critiques de films classiques et moderne
 
 ## La philosophie
 
-Retrouver les trésors cinématiques perdu, proposer un guide pour les novices et gentiment se moquer des ratages.
+Retrouver les trésors cinématiques perdus, proposer un guide pour les novices et gentiment se moquer des ratages.
 
 ## Les scores
 
