@@ -7,7 +7,7 @@ title: Home
   <h1>Bienvenue sur la page folle !</h1>
   {% assign critiques = site.posts | where: "categories","critique" %}
   {% assign post = critiques.first %}
-  <h2>Dernière critique le {{ post.data | date: "%d\/%m\/%Y" }} :</h2>
+  <h2>Dernière critique le {{ post.date | date: "%d/%m/%Y" }} :</h2>
   {% include featured-post.html %}
   <h2>Autres articles :</h2>
 </div>
