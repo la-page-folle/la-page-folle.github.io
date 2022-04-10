@@ -24,7 +24,7 @@ le budget est minimal donc l'intégralité repose sur le jeu des acteurs, la com
 
 l'environnement est réussi pour le budget, et hormis une scène d'exploration qui dure trop longtemps, est bien présenté
 
-certains plans sont véritablement effrayants avec Viriginia (début et éclairage sévère)
+certains plans sont véritablement effrayants avec Virginia (début et éclairage sévère)
 
 le niveau de terreur des enfants est parfait, exactement entre le charme d'un film rétro et l'humour d'une parodie plus moderne
 
