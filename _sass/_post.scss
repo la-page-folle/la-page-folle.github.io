@@ -70,14 +70,18 @@
   overflow: hidden;
 }
 .related img {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  height: auto;
+  //position: absolute;
+  //left: 50%;
+  //top: 50%;
+  //height: auto;
+  //width: 600px;
+  //-webkit-transform: translate(-50%,-50%);
+  //    -ms-transform: translate(-50%,-50%);
+  //        transform: translate(-50%,-50%);
   width: 600px;
-  -webkit-transform: translate(-50%,-50%);
-      -ms-transform: translate(-50%,-50%);
-          transform: translate(-50%,-50%);
+  height: 200px;
+  object-fit: cover;
+  //object-position: 0% 0;
 }
 .related-title {
   float: right;
