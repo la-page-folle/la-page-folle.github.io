@@ -8,7 +8,7 @@ title: Home
   {% assign critiques = site.posts | where: "categories","critique" %}
   {% assign post = critiques.first %}
   <h2>Dernière critique le {{ post.date | date: "%d/%m/%Y" }} :</h2>
-  {% include featured-post.html %}
+  {% include featured-post2.html %}
   <h2>Autres articles :</h2>
 </div>
 
