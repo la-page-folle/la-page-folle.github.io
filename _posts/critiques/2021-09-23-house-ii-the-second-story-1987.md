@@ -9,6 +9,7 @@ author: "Boris Moon"
 categories: critique
 tags: [1980s,americain,maison-hantee]
 image: critiques/house-ii-the-second-story-1987.jpg
+offset: 45%
 stars: 3
 hearts: 4
 ---

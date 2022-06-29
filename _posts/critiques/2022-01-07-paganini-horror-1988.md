@@ -8,6 +8,7 @@ author: "Boris Moon"
 categories: critique
 tags: [1980s,italien,maison-hantee]
 image: critiques/paganini-horror-1988.jpg
+offset: 15%
 stars: 1
 hearts: 2
 ---
