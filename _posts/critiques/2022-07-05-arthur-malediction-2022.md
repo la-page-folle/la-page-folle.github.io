@@ -8,7 +8,7 @@ author: "Boris Moon"
 categories: critique
 tags: [2020s,francais,schlock]
 image: critiques/arthur-malediction-2022.jpg
-offset: 50%
+offset: 61%
 stars: 1
 hearts: 3
 ---
