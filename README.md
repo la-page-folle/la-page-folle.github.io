@@ -16,4 +16,8 @@ Site créé par Pantalons Inappropriés ([email](mailto:pantalon.inapproprie@gma
 
 * Le [site démo](https://lenpaul.github.io/Millennial/)
 
+<<<<<<< HEAD
 Thème Millennial open sourced sous la [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
+=======
+Open sourced sous la [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
+>>>>>>> 0094e4c0a60f83a44272a615f52135a0bb0048d4
