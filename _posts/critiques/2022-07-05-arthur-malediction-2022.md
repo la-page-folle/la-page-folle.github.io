@@ -17,6 +17,8 @@ hearts: 3
 
 Après seulement une semaine en salle, {%include movie name='Arthur: Malédiction|0'%} est déjà le film d'horreur adapté d'une trilogie de films d'animation pour enfants le plus profitable de l'histoire du cinéma français. Il s'agit à présent de déterminer qui est prêt à monter sur l'estrade imaginaire pour accepter le trophée. L'heureux élu sera ensuite questionné pour établir un mobile derrière cet inexplicable acte cinématographique.
 
+<!--excerpt-end-->
+
 Le suspect numéro un est Luc Besson, réalisateur de renommée internationale qui s'implique dans l'affaire non seulement en tant que producteur mais aussi en tant qu'unique scénariste de {%include movie name='Arthur, malédiction|0'%}. Sa participation dépasse donc l'acte passif de financer un projet qui flatte son ego : il fallait que le résultat ne ternisse pas la réputation de la franchise. La qualité de ses scripts était déjà sur le déclin, Valerian and the City of a Thousand Planets n'étant qu'une médiocre tentative de raviver la flamme allumée par The Fifth Element. Malgré tout il reste difficile d'imaginer Luc Besson assis devant son bureau, écrire les phrases qui devront être prononcées à voix haute devant une caméra et ne pas se rendre compte du monstre qu'il est en train de créer.
 
 ## Vue d'ensemble :
