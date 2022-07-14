@@ -28,6 +28,16 @@
 .featured-post h1 {
   margin: 10px;
 }
+.featured-post p {
+  position: relative;
+  bottom: 30px;
+  left: 0px;
+  visibility: hidden;
+}
+.featured-post:hover p {
+  visibility: visible;
+}
+
 
 /*
   Pagination
