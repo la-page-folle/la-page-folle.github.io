@@ -43,7 +43,7 @@
   left: 0px;
   display: none;
 }
-.featured-post:hover + .excerpt-text {
+.featured-post:hover ~ .excerpt-text {
   display: block;
 }
 
