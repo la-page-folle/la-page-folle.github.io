@@ -41,10 +41,10 @@
   position: relative;
   bottom: 30px;
   left: 0px;
-  visibility: hidden;
+  display: none;
 }
 .featured-post:hover + .excerpt-text {
-  visibility: visible;
+  display: block;
 }
 
 /*
