@@ -16,6 +16,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  background-color: white;
   @include color-fade(0.5, $icon-transition-time);
 }
 .featured-post h2 {
