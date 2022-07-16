@@ -14,7 +14,7 @@ stars: 3
 hearts: 4
 ---
 
-## Introduction :
+<!--## Introduction :-->
 
 {%include movie name='House II: The Second Story|0'%} n'est pas la suite {%include movie name='House|1985'%} premier du nom, mais en est bien l'héritier légitime. Quel est le lien entre ces films ? En dehors de Sean S. Cunningham et son désir de se faire de l'argent, on a affaire au même duo à la plume : Fred Dekker et Ethan Wiley, qui réalise aussi ce deuxième volet. En revanche, ce qui unit thématiquement ces films c'est qu'ils appartiennent au genre de l'horreur et se passent dans une maison. Ce critère assez laxiste explique sans doute pourquoi {%include movie name='The Horror Show|1989'%} est aussi appelé House III, puisqu'il y a techniquement une maison dans le film. Cunningham a également produit un {%include movie name='House IV|1992'%} avant de réaliser que ça n'intéressait plus personne. Pour rajouter un peu de confusion, la série de films italiens {%include movie name='La casa 3|1988'%}, {%include movie name='La casa 4|1988'%} et {%include movie name='La casa 5|1990'%}, se sont vendus dans certains marchés comme House 3,4 et 5, mais n'ont rien à voir puisqu'il s'agit de suites non-officielles à {%include movie name='Evil Dead II|1987'%}. Mention honorable au {%include movie name='Hausu|1977'%} japonais de 1977.
 

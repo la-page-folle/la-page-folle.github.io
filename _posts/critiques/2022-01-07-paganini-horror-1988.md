@@ -13,9 +13,9 @@ stars: 1
 hearts: 2
 ---
 
-## Synopsis et vue d'ensemble :
-
 Sorti en 1988, {%include movie name='Paganini Horror|0'%} marque le retour de Luigi Cozzi à ses origines macabres, après quelques aventures avec Hercules chez Cannon Films. La carrière du réalisateur a commencé par plusieurs collaborations avec Dario Argento : il co-écrit deux de ses premiers Giallos, {%include movie name='Il gatto a nove code|1971'%} et {%include movie name='4 mosche di velluto grigio|1971'%}, et contribue à sa courte série télévisée en 1973, {%include movie name='La porta sul buio|1973'%}. Leurs chemins se sont séparés après {%include movie name='Le cinque giornate|1973'%}, la seule escapade de Argento loin de sa zone de confort, et un relatif échec commercial.
+
+## Synopsis et vue d'ensemble :
 
 Luigi Cozzi a persévéré un temps dans la direction de ses premiers succès avec Argento, mais s'est rapidement mis a exprimer une affinité pour la science-fiction. Il est connu pour avoir supervisé la “fameuse” colorisation surréaliste de {%include movie name='Godzilla|1977'%} sortie la même année que Star Wars. Il a d'ailleurs vu dans le blockbuster une occasion lucrative d'exprimer sa créativité, réalisant ainsi Starcrash : un Space Opera en carton qui recycle des éléments de la trilogie originale, y compris des deux volets qui n'étaient pas encore sortis en 1978. Malgré cette approche artistique assez opportuniste, les projets de Cozzi sont néanmoins notables pour leur créativité.
 

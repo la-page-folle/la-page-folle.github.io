@@ -14,9 +14,9 @@ stars: 3
 hearts: 3
 ---
 
-## Synopsis et vue d'ensemble :
-
 Avertissement, {%include movie name='The Night House|0'%} ne contient que 3 ou 4 jumpscare, concentrés au début du film. Je préfère vous en informer pour que vous puissiez vous relaxer le restant du visionnage pour profiter de l'atmosphère. Le scénario tourne autour du personnage de Beth et de sa vie en isolation juste après le décès de son mari, Owen. Dans la première scène, Beth regagne la maison que Owen a bâtie et dans laquelle ils ont longtemps vécu. Contrairement à {%include movie name='A Ghost Story|2017'%}, le film ne se donne pas le temps d'être mélancolique, et des événements inquiétants viennent immédiatement perturber le deuil de Beth.
+
+## Synopsis et vue d'ensemble :
 
 Ce choix scénaristique est cependant bienvenu compte-tenu de l'état d'esprit de notre protagoniste : combative et proactive. Sans être particulièrement complexe, le personnage est suffisamment établi pour être confronté à des situations variées, et réagir en conséquence sans perdre en cohérence ou réalisme. Le spectateur fait face à un moment difficile de la vie de Beth, ce qui le force à poliment se trouver une place aux côtés des seconds rôles. Ce derniers ne peuvent offrir que des informations ou conseils, l'histoire étant entièrement subordonnée à la volonté de la protagoniste.
 
