@@ -16,8 +16,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  @include color-fade(0.5, $icon-transition-time);
-  background-image: linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0)
+  @include color-fade(0.75, 0.5s);
 }
 .featured-post h2 {
   bottom: 0;
