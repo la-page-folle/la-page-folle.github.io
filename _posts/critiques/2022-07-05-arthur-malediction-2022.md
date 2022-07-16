@@ -13,8 +13,6 @@ stars: 1
 hearts: 3
 ---
 
-<!--## Introduction :-->
-
 Après seulement une semaine en salle, {%include movie name='Arthur: Malédiction|0'%} est déjà le film d'horreur adapté d'une trilogie de films d'animation pour enfants le plus profitable de l'histoire du cinéma français. Il s'agit à présent de déterminer qui est prêt à monter sur l'estrade imaginaire pour accepter le trophée. L'heureux élu sera ensuite questionné pour établir un mobile derrière cet inexplicable acte cinématographique.
 
 <!--excerpt-end-->

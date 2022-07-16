@@ -13,8 +13,6 @@ stars: 3
 hearts: 4
 ---
 
-<!--## Introduction :-->
-
 Si ce n'est pas déjà le cas, Scott Derrickson sera probablement reconnu d'ici quelques années comme un des réalisateurs emblématiques du genre fantastique du début du 21ème siècle. Des sept films qu'il a réalisés, seulement deux ne sont pas explicitement des films d'horreurs mais restent dans les terres frontalières de la science-fiction. Quantité n'est malheureusement pas synonyme de qualité, et de ses œuvres je n'ai eu l'occasion de visionner que {%include movie name='Hellraiser: Inferno|2005'%} et {%include movie name='Sinister|2012'%}. Un était un des films d'horreurs les plus génériques, laids et répétitifs que j'ai pu voir récemment et l'autre n'avait pas grand chose à voir avec le premier Hellraiser.
 
 C'est donc avec une légère appréhension que je me suis procuré une place pour la dernière séance de {%include movie name='The Black Phone|0'%} avant qu'il soit éjecté des cinémas pour faire de la place au très attendu {%include movie name='Arthur: Malédiction|2022'%} : le plat de résistance de 2022. Les lumières s'éteignent après 30 minutes de publicités alors que la salle est remplie d'adolescents qui toussent. Mon mal de tête naissant commence à me faire redouter les 105 prochaines minutes, surtout après le cauchemar auditif qu'était {%include movie name='Sinister|0'%}.
