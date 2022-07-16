@@ -42,8 +42,11 @@
   bottom: 30px;
   left: 0px;
   display: none;
+  cursor: default;
+  pointer-events: none;
+  text-decoration: none;
 }
-.featured-post:hover ~ .excerpt-text {
+.featured-post:hover + .excerpt-text {
   display: block;
 }
 

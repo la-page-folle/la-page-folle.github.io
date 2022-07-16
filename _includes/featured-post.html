@@ -4,6 +4,6 @@
       <h2><span>{% if post.layout == "critique" %}{{ post.title }}{% if post.french %}/{{ post.french }}{% endif %} ({{ post.director }}){% else %}{{ post.title }}{% endif %}</span></h2>
       {% if post.layout == "critique" %}<h2 style="right:0;bottom:inherit;"><span>{{ post.year }}</span></h2>{% endif %}
     </div>
+    <div class="excerpt-text">{{ post.excerpt }}</div>
   </a>
-  <div class="excerpt-text">{{ post.excerpt }}</div>
 </article>
