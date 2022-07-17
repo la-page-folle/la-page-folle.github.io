@@ -4,7 +4,7 @@
   -ms-transition: $transition;
   -moz-transition: $transition;
   transition: $transition;
-  &:hover{
+  .featured-post:hover{
     opacity: $opacity;
   }
 }
@@ -21,8 +21,6 @@
   margin: 0;
   padding: 10px;
   position: absolute;
-}
-.featured-post:hover > h2 {
   @include opacity-fade(0.5, 0.5s);
 }
 .featured-post h2 span {
@@ -37,7 +35,6 @@
 .featured-post span a {
   color: white;
 }
-
 .featured-post h1 {
   margin: 10px;
 }
