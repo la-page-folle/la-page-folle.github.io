@@ -39,8 +39,19 @@
   line-height: $header-thickness;
   float: right;
 }
+@mixin color-fade($color, $transition){
+  -webkit-transition: $transition;
+  -o-transition: $transition;
+  -ms-transition: $transition;
+  -moz-transition: $transition;
+  transition: $transition;
+  &:hover{
+    color: $color;
+  }
+}
 .menu-link {
   padding: 5px 10px;
+  @include opacity-fade(var(--main-color), 0.5s);
 }
 
 /*
