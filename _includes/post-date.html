@@ -17,7 +17,11 @@
     {% when "December"  %}décembre{% endcase %}
   {{ page.date | date: "%Y" }}
   par
-  {% if page.author %}
+  {% if page.author.name %}
+    <a href="{{ page.author.url }}"
+       style="color:inherit;
+              text-decoration:inherit;">{{ page.author.name }}</a>
+  {% elsif page.author %}
     <a href="{{ page.author | replace: ' ', '-' | downcase }}"
        style="color:inherit;
               text-decoration:inherit;">{{ page.author }}</a>
