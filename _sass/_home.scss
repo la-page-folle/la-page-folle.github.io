@@ -22,7 +22,7 @@
   padding: 10px;
   position: absolute;
 }
-.featured-post:hover h2 {
+.featured-post:hover > h2 {
   @include opacity-fade(0.5, 0.5s);
 }
 .featured-post h2 span {
