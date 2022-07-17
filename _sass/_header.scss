@@ -51,7 +51,7 @@
 }
 .menu-link {
   padding: 5px 10px;
-  @include opacity-fade(var(--main-color), 0.5s);
+  @include color-fade(var(--main-color), 0.5s);
 }
 
 /*
