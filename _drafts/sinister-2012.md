@@ -4,7 +4,9 @@ title: "Sinister"
 director: "Scott Derrickson"
 year: "2012"
 classification: "12"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [2010s,americain,maison-hantee]
 image: critiques/sinister-2012.jpg

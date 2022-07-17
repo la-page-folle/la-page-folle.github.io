@@ -5,7 +5,9 @@ french: "Les Griffes de la nuit"
 director: "Wes Craven"
 year: "1984"
 classification: "12"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [1980s,americain,slasher]
 image: critiques/a-nightmare-on-elm-street-1984.jpg

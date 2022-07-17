@@ -5,7 +5,9 @@ french: "La proie d'une ombre"
 director: "David Bruckner"
 year: "2020"
 classification: "12"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [2020s,americain,paranormal]
 image: critiques/the-night-house-2020.jpg

@@ -4,7 +4,9 @@ title: "Spider Baby or, the Maddest Story Ever Told"
 director: "Jack Hill"
 year: "1967"
 classification: "16"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [1960s,americain,]
 image: critiques/spider-baby-or-the-maddest-story-ever-told-1967.jpg

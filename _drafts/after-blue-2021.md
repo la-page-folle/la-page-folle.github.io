@@ -4,7 +4,9 @@ title: "After Blue (Paradis sale)"
 director: "Bertrand Mandico"
 year: "2021"
 classification: "0"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [2020s,francais,science-fiction]
 image: critiques/after-blue-2021.jpg

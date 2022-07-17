@@ -4,7 +4,9 @@ title: "Paganini Horror"
 director: "Luigi Cozzi"
 year: "1988"
 classification: "0"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [1980s,italien,maison-hantee]
 image: critiques/paganini-horror-1988.jpg

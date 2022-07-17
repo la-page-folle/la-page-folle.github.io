@@ -1,7 +1,9 @@
 ---
 layout: tag
 title: "Films américains"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: [tag, pays]
 tag: americain
 image: tags/pays/americain.jpg

@@ -4,7 +4,9 @@ title: "Arthur: Malédiction"
 director: "Barthélémy Grossmann"
 year: "2022"
 classification: "12"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [2020s,francais,schlock]
 image: critiques/arthur-malediction-2022.jpg

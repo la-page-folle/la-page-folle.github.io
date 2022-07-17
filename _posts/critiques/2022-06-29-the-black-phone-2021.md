@@ -4,7 +4,9 @@ title: "The Black Phone"
 director: "Scott Derrickson"
 year: "2021"
 classification: "12"
-author: "Boris Moon"
+author:
+  name: "Boris Moon"
+  url: boris-moon
 categories: critique
 tags: [2020s,americain,schlock,maison-hantee]
 image: critiques/the-black-phone-2021.jpg
