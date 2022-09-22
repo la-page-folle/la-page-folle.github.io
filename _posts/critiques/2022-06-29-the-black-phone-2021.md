@@ -41,7 +41,7 @@ Heureusement le rythme est ponctuellement réanimé par l'utilisation approprié
 
 D'aucun remarqueront que certaines séquences du film paraissent très “COVID-friendly”, avec un nombre d'acteurs très limité et des décors spacieux. Un personnel dédié à la crise est même listé au générique. Heureusement cela n'affecte aucunement la qualité de {%include movie name='The Black Phone|0'%} et ne rajoute pas non plus un degré indésirable d'artificialité. Le film n'est pas aussi agressif que certaines de ses inspirations, et ce n'était pas nécessaire à l'exécution de l'histoire écrite par Joe Hill.
 
-Le fait que la majorité des scènes sont interprétées par de très jeunes acteurs est admirable, et leurs performances dépassent certainement les standards établis par un classique comme {%include movie name='A Nightmare on Elm Street|1984'%}. Le maillon faible est l'apparence un peu générique du film, mais Scott Derrickson sait tout de même à quoi devrait ressembler un film d'horreur. Il reste à voir s'il arrive à maintenir le niveau de qualité qu'il a atteint ici.
+Le fait que la majorité des scènes sont interprétées par de très jeunes acteurs est admirable, et leurs performances surpassent certainement les standards établis par un classique comme {%include movie name='A Nightmare on Elm Street|1984'%}. Le maillon faible est l'apparence un peu générique du film, mais Scott Derrickson sait tout de même à quoi devrait ressembler un film d'horreur. Il reste à voir s'il arrive à maintenir le niveau de qualité qu'il a atteint ici.
 
 <!--mixage de la voix de la fille bizarre
 sweating bullets
