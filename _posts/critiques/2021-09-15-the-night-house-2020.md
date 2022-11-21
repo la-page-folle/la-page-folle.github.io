@@ -9,7 +9,7 @@ author:
   name: "Boris Moon"
   url: boris-moon
 categories: critique
-tags: [2020s,americain,paranormal]
+tags: [2020s,americain,paranormal,thriller]
 image: critiques/the-night-house-2020.jpg
 offset: 65%
 stars: 3

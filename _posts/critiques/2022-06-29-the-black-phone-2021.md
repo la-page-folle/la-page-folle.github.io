@@ -8,7 +8,7 @@ author:
   name: "Boris Moon"
   url: boris-moon
 categories: critique
-tags: [2020s,americain,schlock,maison-hantee]
+tags: [2020s,americain,maison-hantee,thriller]
 image: critiques/the-black-phone-2021.jpg
 offset: 26%
 stars: 3
